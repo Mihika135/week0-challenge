@@ -1,0 +1,113 @@
+.button1 {
+    display: block;
+    position: fixed;
+    right: 170px;
+    padding: 5px 8px;
+    border: 1px solid gray;
+    background-color: rgba(248, 134, 27, 0.918);
+    font-size: 17;
+}
+.button2 {
+    display: block;
+    position: absolute;
+    right: 10px;
+    padding: 5px 8px;
+    border: 1px solid gray;
+    background-color: rgba(248, 134, 27, 0.918);
+    font-size: 17;
+}
+.button3 {
+    display: block;
+    position: absolute;
+    right: 90px;
+    padding: 5px 8px;
+    border: 1px solid gray;
+    background-color: rgba(248, 134, 27, 0.918);
+    font-size: 17;
+}
+.button1 a {
+    color: whitesmoke;
+    text-decoration: none;
+    display: block;
+}
+.button2 a {
+    color: whitesmoke;
+    text-decoration: none;
+    display: block;
+}
+.button3 a {
+    color: whitesmoke;
+    text-decoration: none;
+    display: block;
+}
+#searchbar {
+    display: block;
+    text-align: left;
+    position: fixed;
+    left: 35%;
+    width: 30%;
+    height: 5%;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+}
+#searchbar:hover {
+    box-shadow: 5px 5px 5px lightgrey;
+}
+#search_button {
+    background-color: rgb(31, 86, 206);
+    border: none;
+    color: whitesmoke;
+    font-size: 20;
+    padding: 10px 15px;
+    position: fixed;
+    left: 45%;
+}
+#search_button2 {
+    background-color: rgb(31, 86, 206);
+    border: none;
+    color: whitesmoke;
+    font-size: 20;
+    padding: 10px 15px;
+    position: fixed;
+    left: 43%;
+}
+#search_button:hover {
+    border: 2px solid gray;
+}
+#search_button2:hover {
+    border: 2px solid gray;
+}
+.header {
+    display: flex;
+}
+.heading {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    left: 40px;
+    font-size: 35;
+}
+form {
+    position: absolute;
+    left: 30px;
+    font-size: 18;
+}
+#searchbar2 {
+    display: inline;
+    position: absolute;
+    text-align: left;
+    border-radius: 5px;
+    width: 1100px;
+    height: 30px;
+    border: 1px solid lightgrey;
+}
+#search_button3 {
+    background-color: rgb(31, 86, 206);
+    color: white;
+    font-size: 20;
+    padding: 10px 15px;
+    position: fixed;
+    right: 35px;
+    border: none;
+    border-radius: 5px;
+}
