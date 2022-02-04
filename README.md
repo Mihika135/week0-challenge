@@ -2,9 +2,9 @@
 
 # My Result
 
-- [ ] Google Search Page
-<img src="..assets/Google Search.png">
-- [ ] Google Images Search Page
-<img src="..assets/Google Images Search.png">
-- [ ] Google Advanced Search Page
-<img src="..assets/Google Advanced Search.png">
+Google Search Page<br><br>
+<img src="../assets/Google Search.png"><br><br>
+Google Images Search Page<br><br>
+<img src="../assets/Google Images Search.png"><br><br>
+Google Advanced Search Page<br><br>
+<img src="../assets/Google Advanced Search.png">
